@@ -1,0 +1,6 @@
+src/main/java/be/evolvit/immo/api/ApiUtil.java
+src/main/java/be/evolvit/immo/api/ItemsApi.java
+src/main/java/be/evolvit/immo/api/ListsApi.java
+src/main/java/be/evolvit/immo/model/TodoItem.java
+src/main/java/be/evolvit/immo/model/TodoList.java
+src/main/java/be/evolvit/immo/model/TodoState.java

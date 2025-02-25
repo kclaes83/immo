@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "immo",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-azure-container-apps",
+        "version": "1.0.9"
+      }
+    ],
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entities": [],
+    "gitCompany": "",
+    "iaCTools": ["terraform"],
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "8.9.0",
+    "languages": ["en"],
+    "messageBroker": false,
+    "nativeLanguage": "en",
+    "packageFolder": "be/evolvit/immo",
+    "packageName": "be.evolvit.immo",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "testFrameworks": [],
+    "useSass": true,
+    "websocket": false,
+    "withAdminUi": true
+  },
+  "git-company": "kclaes83",
+  "git-provider": "GitHub",
+  "repository-name": "jhipster-sample-application"
+}
